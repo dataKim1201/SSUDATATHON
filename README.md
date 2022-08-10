@@ -1,0 +1,2 @@
+# SSUDATATHON
+SSU데이터톤 공모전
